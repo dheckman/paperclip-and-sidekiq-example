@@ -16,3 +16,21 @@
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
+
+//function refreshDiv() {
+//    refresh.refresh(getRandomInt(0, 100));}
+//$(document).ready(function () { setInterval(refreshDiv, 5000); });
+
+//$(document).ready(function () {
+//    page.reload();
+//});
+//
+//var ringtone = new Ringtone();
+//ringtone.onload = function() {
+//    console.info("Ringtone loaded!")};
+//
+//function myFunction() {
+//    alert("Ringtone processing complete:" + document.getElementById(.processing).complete);};
+//
+//(document).onload(myFunction());
+//}

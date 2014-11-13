@@ -1,7 +1,20 @@
-.small-12.columns
+  head
+  javascript:
+    $(document).ready(function () {
+          window.reload();
+    });
+
+
+  body
+
+  .small-12.columns
   h2 = @ringtone.name
 
-  div = render partial: "audio", locals: { ringtone: @ringtone }
+  - if @ringtone.processing?
+    .processing This ringtone is still processing
+  - else
+
+     div = render partial: "audio", locals: { ringtone: @ringtone }
 
   h3 Formats
   ul

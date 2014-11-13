@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2539650457">
+    <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: development" uuid="b15b2daa-3939-493c-8bfe-d1c1c707c909">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:paperclip-and-sidekiq-example_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: test" uuid="3b75c0a3-6364-4438-b6d5-c305728bde51">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:paperclip-and-sidekiq-example_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: production" uuid="edc136b7-9afb-41e0-be11-4c6683b76326">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:paperclip-and-sidekiq-example_production</jdbc-url>
+      <user-name>paperclip-and-sidekiq-example</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadfebdffadfefdff8dfe9dfe6dfe3dffadf87dfebdfe4dfeedf87dff9dfe3dfeedfefdfe1dfe3dffbdf87dfefdff2dfebdfe7dffadfe6dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

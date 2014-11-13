@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: development" uuid="b15b2daa-3939-493c-8bfe-d1c1c707c909">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: test" uuid="3b75c0a3-6364-4438-b6d5-c305728bde51">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails paperclip-and-sidekiq-example: production" uuid="edc136b7-9afb-41e0-be11-4c6683b76326">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

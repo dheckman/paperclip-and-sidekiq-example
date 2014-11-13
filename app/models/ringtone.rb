@@ -1,6 +1,7 @@
 class Ringtone < ActiveRecord::Base
   validates :song, presence: true
 
+
   has_attached_file :source
   validates_attachment_content_type :source, :content_type => /\Aaudio\/(x-)?(mpeg|mp3)/
 
